@@ -2,7 +2,7 @@
 
 Uma planilha financeira criada a partir de dados fictícios gerados a partir de IA.
 
-💸[Clique aqui para acessar a planilha]()
+💸[Clique aqui para baixar a planilha](https://github.com/anagalli/PlanilhaFinanceira/blob/main/Planilha%20Financeira%20DIO.xlsx)
 
 # 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chatgpt.com/) para geração dos dados e criação do avatar
